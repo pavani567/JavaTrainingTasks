@@ -1,0 +1,17 @@
+#first{
+	background-color:violet;
+	border:black medium dotted;
+	outline-style:solid;
+	outline-color:blue;
+	outline-offset:15px;
+	outline-width:5px;
+	margin:20px;
+
+}
+#second{
+	padding-top:15px;
+	background-color:pink;
+	border:lavender thick dotted;
+	margin:40px;
+	outline:solid tomato 5px;
+}
